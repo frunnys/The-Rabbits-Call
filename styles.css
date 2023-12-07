@@ -5,8 +5,8 @@ body{
 
 h1{
     font-size: 30px;
+    font-family: 'Blackletter';
 }
-
 
 img{
 border-width: 80px;
@@ -14,11 +14,11 @@ border-style:solid;
 border-image: url("https://watermelon.crd.co/assets/images/gallery16/c635a734.gif?v=2a41aca3") 30 fill round;
 }
 
-@font-face {
-    font-family: Blackletter;
-    src: url(blaceb_https://www.dafont.com/blackletter-ds.font_.ttf);
+@font-face{
+    font-family: 'Blackletter' ;
+    src: url('');
 }
 
 div{
-font-family: Blackletter;
+font-family: 'blackletterextrabold'
 }
