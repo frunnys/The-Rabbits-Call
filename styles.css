@@ -5,8 +5,8 @@ body{
 
 h1{
     font-size: 30px;
-    font-family: ;
 }
+
 
 img{
 border-width: 80px;
@@ -16,5 +16,9 @@ border-image: url("https://watermelon.crd.co/assets/images/gallery16/c635a734.gi
 
 @font-face {
     font-family: Blackletter;
-    src: url(blaceb__.ttf);
+    src: url(blaceb_https://www.dafont.com/blackletter-ds.font_.ttf);
+}
+
+div{
+font-family: Blackletter;
 }
